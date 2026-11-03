@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>编程珠玑（第2版·修订版）</dc:title>
+<dc:language>en</dc:language>
+<dc:identifier id="uid">0</dc:identifier>
+<dc:creator>[美]乔恩·本特利（Jon Bentley） 著</dc:creator>
+<dc:publisher>人民邮电出版社</dc:publisher>
+<dc:date opf:event="publication">2015-01-01</dc:date>
+<meta name="cover" content="cover_img" />
+<meta name="output encoding" content="utf-8" />
+<!-- BEGIN INFORMATION ONLY 
+<meta name="Cover ThumbNail Image" content="Images/image00179.jpeg" />
+<meta name="ASIN" content="B01HZFHFIM" />
+<meta name="Has Fake Cover" content="0" />
+<meta name="16777220 (hex)" content="687474703a2f2f7777772e657075626f722e636f6d" />
+<meta name="K8(129)_Masthead/Cover_Image" content="kindle:embed:0001" />
+<meta name="16777217 (hex)" content="65436f72652076302e392e342e363131205b20687474703a2f2f7777772e657075626f722e636f6d2f65636f72652e68746d6c205d" />
+<meta name="16777219 (hex)" content="457075626f72" />
+<meta name="Language_524" content="zh" />
+<meta name="Updated_Title" content="编程珠玑（第2版·修订版）" />
+<meta name="cdeType" content="EBOK" />
+<meta name="16777218 (hex)" content="556c74696d617465" />
+END INFORMATION ONLY -->
+</metadata>
+<manifest>
+<item id="item0" media-type="application/xhtml+xml" href="Text/cover_page.xhtml" />
+<item id="item1" media-type="application/xhtml+xml" href="Text/part0000.xhtml" />
+<item id="item2" media-type="application/xhtml+xml" href="Text/part0001.xhtml" />
+<item id="item3" media-type="application/xhtml+xml" href="Text/part0002.xhtml" />
+<item id="item4" media-type="application/xhtml+xml" href="Text/part0003.xhtml" />
+<item id="item5" media-type="application/xhtml+xml" href="Text/part0004.xhtml" />
+<item id="item6" media-type="application/xhtml+xml" href="Text/part0005.xhtml" />
+<item id="item7" media-type="application/xhtml+xml" href="Text/part0006.xhtml" />
+<item id="item8" media-type="application/xhtml+xml" href="Text/part0007.xhtml" />
+<item id="item9" media-type="application/xhtml+xml" href="Text/part0008.xhtml" />
+<item id="item10" media-type="application/xhtml+xml" href="Text/part0009.xhtml" />
+<item id="item11" media-type="application/xhtml+xml" href="Text/part0010.xhtml" />
+<item id="item12" media-type="application/xhtml+xml" href="Text/part0011.xhtml" />
+<item id="item13" media-type="application/xhtml+xml" href="Text/part0012.xhtml" />
+<item id="item14" media-type="application/xhtml+xml" href="Text/part0013.xhtml" />
+<item id="item15" media-type="application/xhtml+xml" href="Text/part0014.xhtml" />
+<item id="item16" media-type="application/xhtml+xml" href="Text/part0015.xhtml" />
+<item id="item17" media-type="application/xhtml+xml" href="Text/part0016.xhtml" />
+<item id="item18" media-type="application/xhtml+xml" href="Text/part0017.xhtml" />
+<item id="item19" media-type="application/xhtml+xml" href="Text/part0018.xhtml" />
+<item id="item20" media-type="application/xhtml+xml" href="Text/part0019.xhtml" />
+<item id="item21" media-type="text/css" href="Styles/style0001.css" />
+<item id="cover_img" media-type="image/jpeg" href="Images/cover00178.jpeg" />
+<item id="item23" media-type="image/jpeg" href="Images/image00180.jpeg" />
+<item id="item24" media-type="image/jpeg" href="Images/image00181.jpeg" />
+<item id="item25" media-type="image/jpeg" href="Images/image00182.jpeg" />
+<item id="item26" media-type="image/jpeg" href="Images/image00183.jpeg" />
+<item id="item27" media-type="image/jpeg" href="Images/image00184.jpeg" />
+<item id="item28" media-type="image/jpeg" href="Images/image00185.jpeg" />
+<item id="item29" media-type="image/jpeg" href="Images/image00186.jpeg" />
+<item id="item30" media-type="image/jpeg" href="Images/image00187.jpeg" />
+<item id="item31" media-type="image/jpeg" href="Images/image00188.jpeg" />
+<item id="item32" media-type="image/jpeg" href="Images/image00189.jpeg" />
+<item id="item33" media-type="image/jpeg" href="Images/image00190.jpeg" />
+<item id="item34" media-type="image/jpeg" href="Images/image00191.jpeg" />
+<item id="item35" media-type="image/jpeg" href="Images/image00192.jpeg" />
+<item id="item36" media-type="image/jpeg" href="Images/image00193.jpeg" />
+<item id="item37" media-type="image/jpeg" href="Images/image00194.jpeg" />
+<item id="item38" media-type="image/jpeg" href="Images/image00195.jpeg" />
+<item id="item39" media-type="image/jpeg" href="Images/image00196.jpeg" />
+<item id="item40" media-type="image/jpeg" href="Images/image00197.jpeg" />
+<item id="item41" media-type="image/jpeg" href="Images/image00198.jpeg" />
+<item id="item42" media-type="image/jpeg" href="Images/image00199.jpeg" />
+<item id="item43" media-type="image/jpeg" href="Images/image00200.jpeg" />
+<item id="item44" media-type="image/jpeg" href="Images/image00201.jpeg" />
+<item id="item45" media-type="image/jpeg" href="Images/image00202.jpeg" />
+<item id="item46" media-type="image/jpeg" href="Images/image00203.jpeg" />
+<item id="item47" media-type="image/jpeg" href="Images/image00204.jpeg" />
+<item id="item48" media-type="image/jpeg" href="Images/image00205.jpeg" />
+<item id="item49" media-type="image/jpeg" href="Images/image00206.jpeg" />
+<item id="item50" media-type="image/jpeg" href="Images/image00207.jpeg" />
+<item id="item51" media-type="image/jpeg" href="Images/image00208.jpeg" />
+<item id="item52" media-type="image/jpeg" href="Images/image00209.jpeg" />
+<item id="item53" media-type="image/jpeg" href="Images/image00210.jpeg" />
+<item id="item54" media-type="image/jpeg" href="Images/image00211.jpeg" />
+<item id="item55" media-type="image/jpeg" href="Images/image00212.jpeg" />
+<item id="item56" media-type="image/jpeg" href="Images/image00213.jpeg" />
+<item id="item57" media-type="image/jpeg" href="Images/image00214.jpeg" />
+<item id="item58" media-type="image/jpeg" href="Images/image00215.jpeg" />
+<item id="item59" media-type="image/jpeg" href="Images/image00216.jpeg" />
+<item id="item60" media-type="image/jpeg" href="Images/image00217.jpeg" />
+<item id="item61" media-type="image/jpeg" href="Images/image00218.jpeg" />
+<item id="item62" media-type="image/jpeg" href="Images/image00219.jpeg" />
+<item id="item63" media-type="image/jpeg" href="Images/image00220.jpeg" />
+<item id="item64" media-type="image/jpeg" href="Images/image00221.jpeg" />
+<item id="item65" media-type="image/jpeg" href="Images/image00222.jpeg" />
+<item id="item66" media-type="image/jpeg" href="Images/image00223.jpeg" />
+<item id="item67" media-type="image/jpeg" href="Images/image00224.jpeg" />
+<item id="item68" media-type="image/jpeg" href="Images/image00225.jpeg" />
+<item id="item69" media-type="image/jpeg" href="Images/image00226.jpeg" />
+<item id="item70" media-type="image/jpeg" href="Images/image00227.jpeg" />
+<item id="item71" media-type="image/jpeg" href="Images/image00228.jpeg" />
+<item id="item72" media-type="image/jpeg" href="Images/image00229.jpeg" />
+<item id="item73" media-type="image/jpeg" href="Images/image00230.jpeg" />
+<item id="item74" media-type="image/jpeg" href="Images/image00231.jpeg" />
+<item id="item75" media-type="image/jpeg" href="Images/image00232.jpeg" />
+<item id="item76" media-type="image/jpeg" href="Images/image00233.jpeg" />
+<item id="item77" media-type="image/jpeg" href="Images/image00234.jpeg" />
+<item id="item78" media-type="image/jpeg" href="Images/image00235.jpeg" />
+<item id="item79" media-type="image/jpeg" href="Images/image00236.jpeg" />
+<item id="item80" media-type="image/jpeg" href="Images/image00237.jpeg" />
+<item id="item81" media-type="image/jpeg" href="Images/image00238.jpeg" />
+<item id="item82" media-type="image/jpeg" href="Images/image00239.jpeg" />
+<item id="item83" media-type="image/jpeg" href="Images/image00240.jpeg" />
+<item id="item84" media-type="image/jpeg" href="Images/image00241.jpeg" />
+<item id="item85" media-type="image/jpeg" href="Images/image00242.jpeg" />
+<item id="item86" media-type="image/jpeg" href="Images/image00243.jpeg" />
+<item id="item87" media-type="image/jpeg" href="Images/image00244.jpeg" />
+<item id="item88" media-type="image/jpeg" href="Images/image00245.jpeg" />
+<item id="item89" media-type="image/jpeg" href="Images/image00246.jpeg" />
+<item id="item90" media-type="image/jpeg" href="Images/image00247.jpeg" />
+<item id="item91" media-type="image/jpeg" href="Images/image00248.jpeg" />
+<item id="item92" media-type="image/jpeg" href="Images/image00249.jpeg" />
+<item id="item93" media-type="image/jpeg" href="Images/image00250.jpeg" />
+<item id="item94" media-type="image/jpeg" href="Images/image00251.jpeg" />
+<item id="item95" media-type="image/jpeg" href="Images/image00252.jpeg" />
+<item id="item96" media-type="image/jpeg" href="Images/image00253.jpeg" />
+<item id="item97" media-type="image/jpeg" href="Images/image00254.jpeg" />
+<item id="item98" media-type="image/jpeg" href="Images/image00255.jpeg" />
+<item id="item99" media-type="image/jpeg" href="Images/image00256.jpeg" />
+<item id="item100" media-type="image/jpeg" href="Images/image00257.jpeg" />
+<item id="item101" media-type="image/jpeg" href="Images/image00258.jpeg" />
+<item id="item102" media-type="image/jpeg" href="Images/image00259.jpeg" />
+<item id="ncx" media-type="application/x-dtbncx+xml" href="toc.ncx" />
+</manifest>
+<spine toc="ncx">
+<itemref idref="item0" linear="no"/>
+<itemref idref="item1"/>
+<itemref idref="item2"/>
+<itemref idref="item3"/>
+<itemref idref="item4"/>
+<itemref idref="item5"/>
+<itemref idref="item6"/>
+<itemref idref="item7"/>
+<itemref idref="item8"/>
+<itemref idref="item9"/>
+<itemref idref="item10"/>
+<itemref idref="item11"/>
+<itemref idref="item12"/>
+<itemref idref="item13"/>
+<itemref idref="item14"/>
+<itemref idref="item15"/>
+<itemref idref="item16"/>
+<itemref idref="item17"/>
+<itemref idref="item18"/>
+<itemref idref="item19"/>
+<itemref idref="item20"/>
+</spine>
+<tours>
+</tours>
+<guide>
+<reference type="text" title="正文" href="Text/part0007.xhtml" />
+<reference type="other.titlepage" title="书名页" href="Text/part0001.xhtml" />
+<reference type="cover" title="Cover" href="Text/cover_page.xhtml" />
+</guide>
+</package>
